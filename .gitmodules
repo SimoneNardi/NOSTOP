@@ -1,0 +1,21 @@
+[submodule "base_math"]
+	path = base_math
+	url = https://github.com/SimoneNardi/base_math
+[submodule "nostop_learning"]
+	path = nostop_learning
+	url = https://github.com/SimoneNardi/nostop_learning
+[submodule "nostop_agent"]
+	path = nostop_agent
+	url = https://github.com/SimoneNardi/nostop_agent
+[submodule "nostop_simulator"]
+	path = nostop_simulator
+	url = https://github.com/SimoneNardi/nostop_simulator
+[submodule "nostop_kinect_sensor"]
+	path = nostop_kinect_sensor
+	url = https://github.com/SimoneNardi/nostop_kinect_sensor
+[submodule "nostop_usercontrol"]
+	path = nostop_usercontrol
+	url = https://github.com/SimoneNardi/nostop_usercontrol
+[submodule "dfrobot2wd_ros"]
+	path = dfrobot2wd_ros
+	url = https://github.com/MirkoFerrati/dfrobot2wd_ros
