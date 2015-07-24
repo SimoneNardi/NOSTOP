@@ -1,7 +1,7 @@
 # nostop
 
 API index
-This repository is a container for all (or most of the) packages needed for the dualManipulation task. To download everything at once, simply use the command
+This repository is a container for all (or most of the) packages needed for the nostop project. To download everything at once, simply use the command
 git clone --recursive https://github.com/SimoneNardi/nostop.git
 or, if you already set-up an ssh-key for you account
 git clone --recursive git@github.com:SimoneNardi/nostop.git
