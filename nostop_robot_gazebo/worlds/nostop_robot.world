@@ -9,9 +9,9 @@
 	</include>
 	<!--><include>
 		<uri>model://willowgarage</uri>	
-	</include><-->
+	</include>
 	<include>
 		<uri>model://pioneer2dx</uri>
-	</include>
+	</include><!-->
 </world>
 </sdf>
