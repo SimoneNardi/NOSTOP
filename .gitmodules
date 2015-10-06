@@ -19,3 +19,6 @@
 [submodule "dfrobot2wd_ros"]
 	path = dfrobot2wd_ros
 	url = git@github.com:MirkoFerrati/dfrobot2wd_ros
+[submodule "nostop_robot"]
+	path = nostop_robot
+	url = git@github.com:SimoneNardi/nostop_robot.git
