@@ -28,3 +28,6 @@
 [submodule "irobotcreate2ros"]
 	path = irobotcreate2ros
 	url = git@github.com:MirkoFerrati/irobotcreate2ros.git
+[submodule "nostop_gazebo_simulator"]
+	path = nostop_gazebo_simulator
+	url = git@github.com:SimoneNardi/nostop_gazebo_simulator.git
