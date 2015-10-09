@@ -22,3 +22,9 @@
 [submodule "nostop_robot"]
 	path = nostop_robot
 	url = git@github.com:SimoneNardi/nostop_robot.git
+[submodule "nostop_gazebo_sensor"]
+	path = nostop_gazebo_sensor
+	url = git@github.com:SimoneNardi/nostop_gazebo_sensor.git
+[submodule "irobotcreate2ros"]
+	path = irobotcreate2ros
+	url = git@github.com:MirkoFerrati/irobotcreate2ros.git
