@@ -31,6 +31,3 @@
 [submodule "nostop_gazebo_simulator"]
 	path = nostop_gazebo_simulator
 	url = git@github.com:SimoneNardi/nostop_gazebo_simulator.git
-[submodule "nostop_robot_localizer"]
-	path = nostop_robot_localizer
-	url = git@github.com:SimoneNardi/nostop_robot_localizer.git
