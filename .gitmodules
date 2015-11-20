@@ -34,3 +34,6 @@
 [submodule "nostop_robot_localization"]
 	path = nostop_robot_localization
 	url = git@github.com:SimoneNardi/nostop_robot_localization.git
+[submodule "nostop_analysis"]
+	path = nostop_analysis
+	url = git@github.com:SimoneNardi/nostop_analysis.git
