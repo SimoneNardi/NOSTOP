@@ -37,3 +37,6 @@
 [submodule "nostop_analysis"]
 	path = nostop_analysis
 	url = git@github.com:SimoneNardi/nostop_analysis.git
+[submodule "nostop_area"]
+	path = nostop_area
+	url = git@github.com:SimoneNardi/nostop_area.git
